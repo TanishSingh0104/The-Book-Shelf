@@ -1,4 +1,4 @@
-# BookNest - Online Book Store
+# The Book Shelf - Online Book Store
 
 A full-stack online book store built with the MERN stack as a college portfolio project. Users can browse and buy books with Cash on Delivery or a demo payment option, and an admin can manage books and orders. There is no real payment gateway.
 

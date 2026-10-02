@@ -20,7 +20,7 @@ const Navbar = () => {
   return (
     <header className="navbar">
       <div className="container navbar-inner">
-        <Link to="/" className="logo" onClick={closeMenu}>BookNest</Link>
+        <Link to="/" className="logo" onClick={closeMenu}>The Book Shelf</Link>
         <button className="menu-button" onClick={() => setMenuOpen(!menuOpen)}>Menu</button>
         <nav className={menuOpen ? 'nav-links open' : 'nav-links'}>
           <NavLink to="/" end onClick={closeMenu}>Home</NavLink>
